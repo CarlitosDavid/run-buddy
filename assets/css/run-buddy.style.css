@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -49,11 +50,6 @@ header nav ul li a {
 
 /* footer section of this stylesheet */
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 footer {
     background: #fce138;
     width: 100%;
@@ -79,5 +75,9 @@ footer a {
 
 section {
     padding: 60px;
-    background-image: url("../image.runbuddy/runbuddyhero.jpeg")
+}
+
+.hero {
+    background-image: url("../image.runbuddy/runbuddyhero.jpeg");
+    height: 600px;
 }
