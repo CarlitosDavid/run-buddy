@@ -92,8 +92,8 @@ section {
     width: 500px;
     color: #024e76;
     position: absolute;
-    bottom: 120px;
-    right: 140px;
+    bottom: 80px;
+    right: 25px;
 }
 
 .hero-form h3 {
@@ -282,4 +282,17 @@ section {
 }
  
 /* REACH OUT STYLE END */
+/* Privicy Policy page below */
+ 
+.hero {
+    margin: 20px;
+    font-size: 20px;
+    background-color: white;
+    color: blue;
+}
+
+.hero-secondary {
+    background-color: black;
+    color: red;
+}
 
